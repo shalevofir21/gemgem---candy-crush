@@ -14,4 +14,5 @@ In the game, a player will always have a streak of three diamonds that they can 
 
 # Installing
 *Download the files
+
 *run the program in "gemgem_2" file.
