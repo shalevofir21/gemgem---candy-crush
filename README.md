@@ -1,5 +1,7 @@
 # gemgem
-Description : 
+
+# Description : 
+
 GemGem is a computer game where the player's objective is to detonate three diamonds to earn points.
 
 # Example:
