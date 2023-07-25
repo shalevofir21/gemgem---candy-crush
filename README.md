@@ -21,3 +21,5 @@ In the game, a player will always have a streak of three diamonds that they can 
 
 # Authors
 Shalev Ofir
+
+*Project through nitzanim
